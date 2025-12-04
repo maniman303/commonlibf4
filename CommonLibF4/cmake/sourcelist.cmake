@@ -337,6 +337,7 @@ set(SOURCES
 	include/RE/msvc/memory.h
 	include/RE/msvc/typeinfo.h
 	include/REL/Relocation.h
+	include/REX/EnumSet.h
 	src/F4SE/API.cpp
 	src/F4SE/Impl/PCH.cpp
 	src/F4SE/Impl/WinAPI.cpp
